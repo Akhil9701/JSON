@@ -1,0 +1,41 @@
+{
+	"values": [
+
+		{
+			"id": "AF",
+			"name": "Afghanistan",
+			"value": "32358260"
+		},
+
+		{
+			"id": "AO",
+			"name": "Angola",
+			"value": 19618432
+		}, {
+			"id": "AR",
+			"name": "Argentina",
+			"value": 40764561
+		}, {
+			"id": "AM",
+			"name": "Armenia",
+			"value": 3100236
+		}, {
+			"id": "AU",
+			"name": "Australia",
+			"value": 22605732,
+			"color": "#8aabb0"
+		}, {
+			"id": "AT",
+			"name": "Austria",
+			"value": 8413429
+		}, {
+			"id": "AZ",
+			"name": "Azerbaijan",
+			"value": 9306023
+		}, {
+			"id": "BH",
+			"name": "Bahrain",
+			"value": 1323535
+		}
+	]
+}
