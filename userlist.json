@@ -1,0 +1,51 @@
+[
+    {
+        "email": "harshal@oobalabs.com",
+        "first_name": "harshal",
+        "groups": [
+            "admin",
+            "admin1"
+        ],
+        "id": 3,
+        "last_name": "ch",
+        "password": null,
+        "superuser": false,
+        "username": "harshal2"
+    },
+    {
+        "email": "harshal4@oobalabs.com",
+        "first_name": "string",
+        "groups": [
+            "string"
+        ],
+        "id": 4,
+        "last_name": "string",
+        "password": null,
+        "superuser": false,
+        "username": "harshal4"
+    },
+    {
+        "email": "harshal4@oobalabs.com",
+        "first_name": "string",
+        "groups": [
+            "string"
+        ],
+        "id": 5,
+        "last_name": "string",
+        "password": null,
+        "superuser": false,
+        "username": "harshal5"
+    },
+    {
+        "email": "harshal6@oobalabs.com",
+        "first_name": "string",
+        "groups": [
+            "string"
+        ],
+        "id": 6,
+        "last_name": "string",
+        "password": null,
+        "superuser": false,
+        "username": "harshal6"
+    }
+]
